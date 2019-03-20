@@ -1,0 +1,42 @@
+
+%------------------------------------------------------------
+%Approval Page
+%------------------------------------------------------------
+\def\approvalpage{%
+  \chapter*{\approvalname}%
+  \begin{center}
+  \begin{doublespace}
+        \MakeUppercase{\normalfont\bfseries\@titleind}\par\nobreak
+    \vspace{1.0cm}
+    \MakeUppercase{\normalfont\bfseries\expandafter{Tesis}}\\
+    \vspace{1.0cm}
+    Diajukan Sebagai Salah Satu Syarat untuk Memperoleh\\
+    Gelar Magister Manajemen (MM)\\
+   % Pada Jurusan \@program \ \@faculty \\
+    \@university
+
+    \vspace{1.0cm}
+    \textbf{Disusun oleh:}\\
+    \begin{singlespace}
+      \underline{\bfseries \@fullname}\\
+      \textbf{\@idnum}\\
+    \end{singlespace}
+    \vspace{1.0cm}
+    Telah disetujui dan disahkan\\
+    pada tanggal \@approvaldate
+    \vspace{1.0cm}
+
+    \begin{singlespace}
+    \begin{tabular}{ccc}
+      Dosen Pembimbing I & & Dosen Pembimbing II \\
+      \vspace{1cm} & \vspace{1cm} & \vspace{1cm}\\
+      \textbf{\underline{\@firstsupervisor}}& &
+      \textbf{\underline{\@secondsupervisor}} \\
+      \bfseries NIP. \@firstnip & & \bfseries NIP. \@secondnip    
+    \end{tabular}
+    \end{singlespace}
+
+  \end{doublespace}
+  \end{center}
+\addcontentsline{toc}{chapter}{\approvalname}
+}

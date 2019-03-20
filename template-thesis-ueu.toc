@@ -1,0 +1,83 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\babel@toc {bahasa}{}
+\babel@toc {bahasa}{}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{HALAMAN PENGESAHAN}{ii}{chapter*.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{HALAMAN PERSEMBAHAN}{iii}{chapter*.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{KATA PENGANTAR}{iv}{chapter*.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{DAFTAR ISI}{vi}{chapter*.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{DAFTAR TABEL}{vii}{chapter*.5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{DAFTAR GAMBAR}{viii}{chapter*.6}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Abstraksi}{ix}{chapter*.7}% 
+\babel@toc {english}{}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\emph {Abstract}}{x}{chapter*.8}% 
+\babel@toc {bahasa}{}
+\babel@toc {english}{}
+\babel@toc {bahasa}{}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {I}LATAR BELAKANG}{1}{chapter.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.1}Latar Belakang }{1}{section.1.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.2}Rumusan Masalah}{2}{section.1.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.3}Batasan Masalah}{2}{section.1.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.4}Tujuan Penelitian}{2}{section.1.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.5}Manfaat Penelitian}{3}{section.1.5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.6}Keaslian Penelitian}{3}{section.1.6}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.7}Sistematika Penulisan}{3}{section.1.7}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {II}TINJAUAN PUSTAKA DAN DASAR TEORI}{5}{chapter.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.1}Tinjauan Pustaka}{5}{section.2.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.2}Landasan Teori}{5}{section.2.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.2.1}\LaTeX }{5}{subsection.2.2.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.2.2}Sublime Text}{6}{subsection.2.2.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {III}METODOLOGI PENELITIAN}{7}{chapter.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.1}Alat dan Bahan}{7}{section.3.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.1.1}Perangkat Keras}{7}{subsection.3.1.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.1.2}Perangkat Lunak}{7}{subsection.3.1.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.2}Alur Penelitian}{8}{section.3.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.3}Tahapan Pelaksanaan}{8}{section.3.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.4}Jadwal Kegiatan}{8}{section.3.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {IV}HASIL DAN PEMBAHASAN}{10}{chapter.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.1}Subbab 1}{10}{section.4.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.2}Subbab 2}{10}{section.4.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.2.1}Subsubbab 2 1}{10}{subsection.4.2.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.2.2}Subsubbab 2 2}{11}{subsection.4.2.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.3}Subab 3}{11}{section.4.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {V}KESIMPULAN DAN SARAN}{12}{chapter.5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.1}Kesimpulan}{12}{section.5.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.2}Saran}{12}{section.5.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{DAFTAR PUSTAKA}{13}{Item.35}% 

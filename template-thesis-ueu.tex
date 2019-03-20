@@ -1,0 +1,129 @@
+%-------------------------------------------------------------------------------
+%                      Template Naskah Tesis
+%               	Berdasarkan format Program Studi Magister Universitas Esa Unggul
+% 						(c) @apipdlani 2019
+%-------------------------------------------------------------------------------
+
+%Template pembuatan naskah thesis.
+\documentclass{ueuthesis}
+
+%Untuk prefiks pada daftar gambar dan tabel
+\usepackage[titles]{tocloft}
+\renewcommand\cftfigpresnum{Gambar\  }
+\renewcommand\cfttabpresnum{Tabel\   }
+
+%Untuk hyperlink dan table of content
+\usepackage{hyperref}
+\newlength{\mylenf}
+\settowidth{\mylenf}{\cftfigpresnum}
+\setlength{\cftfignumwidth}{\dimexpr\mylenf+2em}
+\setlength{\cfttabnumwidth}{\dimexpr\mylenf+2em}
+
+%Untuk Bold Face pada Keterangan Gambar
+\usepackage[labelfont=bf]{caption}
+
+%Untuk caption dan subcaption
+\usepackage{caption}
+\usepackage{subcaption}
+
+
+%-----------------------------------------------------------------
+%Disini awal masukan untuk data  Tesis
+%-----------------------------------------------------------------
+\titleind{TEMPLATE TESIS UNIVERSITAS ESA UNGGUL DENGAN MENGGUNAKAN \emph{TYPESETTING} \LaTeX}
+
+\fullname{RATNA SYAKA APRILDA}
+
+\idnum{20170103152}
+
+\approvaldate{ 24 Maret 2019}
+
+\degree{Magister}
+
+\yearsubmit{2019}
+
+\program{Magister Manajemen}
+
+\dept{Ekonomi dan Bisnis}
+
+\firstsupervisor{Dr. Tantri Yanuar R. Syah, SE.,MSM}
+\firstnip{Nip}
+
+\secondsupervisor{Dr. Dian Alfia Purwandari, SE.,M.Si}
+\secondnip{Nip}
+
+%-----------------------------------------------------------------
+%Disini akhir masukan untuk data proposal tesis
+%-----------------------------------------------------------------
+
+\begin{document}
+
+\cover
+\approvalpage
+
+%-----------------------------------------------------------------
+%Disini awal masukan Acknowledment
+%-----------------------------------------------------------------
+\acknowledgment
+\begin{flushright}
+\emph{Untuk Ibu, Ayah,\\ Suami serta Anakku tercinta.}
+\end{flushright}
+
+%-----------------------------------------------------------------
+%Menyertakan file prakata
+%-----------------------------------------------------------------
+\include{prakata}
+%-----------------------------------------------------------------
+%Akhir masukan untuk muka tesis
+%-----------------------------------------------------------------
+\tableofcontents
+\addcontentsline{toc}{chapter}{DAFTAR ISI}
+\listoftables
+\addcontentsline{toc}{chapter}{DAFTAR TABEL}
+\listoffigures
+\addcontentsline{toc}{chapter}{DAFTAR GAMBAR}
+
+%-----------------------------------------------------------------
+%Daftar singkatan (Optional), uncomment jika ingin ditambahkan;
+%-----------------------------------------------------------------
+%\include{daftar-singkatan}
+
+%-----------------------------------------------------------------
+%Menyertakan file abstraksi
+%-----------------------------------------------------------------
+\include{abstraksi-abstract}
+
+
+%-----------------------------------------------------------------
+%Menyertakan masukan untuk masing-masing Bab
+%-----------------------------------------------------------------
+\include{bab1}
+
+\include{bab2}
+
+\include{bab3}
+
+\include{bab4}
+
+\include{bab5}
+
+%-----------------------------------------------------------------
+%Akhir masukan Bab
+%-----------------------------------------------------------------
+
+
+%-----------------------------------------------------------------
+% Awal masukan untuk Daftar Pustaka
+% - Daftar pustaka diambil dari file .bib yang ada pada folder ini
+%   juga.
+% - Untuk memudahkan dalam memanajemen dan menggenerate file .bib
+%   gunakan reference manager seperti Mendeley, Zotero, EndNote,
+%   dll.
+%-----------------------------------------------------------------
+\addcontentsline{toc}{chapter}{DAFTAR PUSTAKA}
+\printbibliography[title={DAFTAR PUSTAKA}]
+%-----------------------------------------------------------------
+%Akhir masukan Daftar Pustaka
+%-----------------------------------------------------------------
+
+\end{document}
