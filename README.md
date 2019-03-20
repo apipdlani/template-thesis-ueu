@@ -1,7 +1,7 @@
 Template Naskah Tesis LaTeX
 =============================
 
-Template Naskah Tesus dengan typesetting LaTeX untuk Universitas Esa Unggul 2019. Naskah ini mengikuti  pedoman pembuatan buku tesis yang dikeluarkan oleh Universitas Esa Unggul.
+Template Naskah Tesis dengan typesetting LaTeX untuk Universitas Esa Unggul (2019). Naskah ini mengikuti  pedoman pembuatan buku Tesis yang dikeluarkan oleh Universitas Esa Unggul.
 
 Semoga bermanfaat. 
 
